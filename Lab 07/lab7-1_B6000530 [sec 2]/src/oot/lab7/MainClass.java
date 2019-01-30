@@ -1,14 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+run:
+Name: Mumin ,	 Gender: Female, RollNo = 123
+Name: Junaid ,	 Gender: Male, Salary = $342.16
+Name: Aaamir ,	 Gender: Female, Designation = Analyst
+Name: Miarr ,	 Gender: Female, RollNo = 123
  */
 package oot.lab7;
 
-/**
- *
- * @author ToeiK
- */
 public class MainClass {
   public static void main(String[] args) {
     Person [] p = new Person[3];
